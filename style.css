@@ -37,7 +37,12 @@ input, button {
     font-size: 20px;
     border-radius: 4px;
 }
-
+@media (max-width: 460px) {
+    input {
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+}
 input {
     margin-bottom: 20px;
     width: 89.1%;
