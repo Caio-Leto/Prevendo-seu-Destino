@@ -5,7 +5,7 @@
   </div>
   #PREVENDO SEU DESTINO!
   <h1>Descrição</h1>
-<p>Plataforma criada no evento da Maratona-Explorer 1.0, a plataforma foi criada usando as tecnologias HTML5 e CSS3, além disso foi um dos primeiros projetos que usei
+<p>Site criado no evento da Maratona-Explorer 1.0, a plataforma foi criada usando as tecnologias HTML5 e CSS3, além disso foi um dos primeiros projetos que usei
 o JavaScritpt para gerar respostas aleatórais assim que o usuário faça uma pergunta, foi uma experiência bacana e muito divertida!</p>
 
 <h1>Tecnologias Usadas</h1>
